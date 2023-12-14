@@ -1,0 +1,6 @@
+﻿Build started at 10:20...
+1>------ Build started: Project: Labb2Bilar, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>Labb2Bilar -> C:\Skolan Programmerings uppgifter\Labb2Bilar\bin\Debug\net6.0\Labb2Bilar.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 10:20 and took 00,402 seconds ==========
